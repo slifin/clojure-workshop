@@ -42,3 +42,8 @@ Sign up to 4clojure problems via: http://www.4clojure.com/
 
 Complete the first three problems on 4clojure
 
+## Session 3
+
+Catch up for new comers via pairing and learning language sensibilities:
+
+https://www.youtube.com/playlist?list=PLXsqD83He-e5oUh_DFrHbO3MoNj3tG8Vh
