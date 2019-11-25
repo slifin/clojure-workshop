@@ -37,6 +37,7 @@ Install clj-kondo for static analysis here: https://github.com/borkdude/clj-kond
 Integerate it inside Intellij by following these instructions: https://github.com/borkdude/clj-kondo/blob/master/doc/editor-integration.md#intellij-idea (it should work by copying the image), just make sure it's enabled globally afterwards
 
 Sign up to clojurian slack via: http://clojurians.net/
+
 Sign up to 4clojure problems via: http://www.4clojure.com/
 
 Complete the first three problems on 4clojure
