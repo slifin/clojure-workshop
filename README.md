@@ -42,6 +42,10 @@ Sign up to 4clojure problems via: http://www.4clojure.com/
 
 Complete the first three problems on 4clojure
 
+Other community links:
+https://www.clojuriststogether.org/
+https://www.meetup.com/Bristol-Clojurians/
+
 ## Session 3
 
 Catch up for new comers via pairing and learning language sensibilities:
