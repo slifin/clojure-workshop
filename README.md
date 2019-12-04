@@ -57,7 +57,7 @@ https://www.youtube.com/playlist?list=PLXsqD83He-e5oUh_DFrHbO3MoNj3tG8Vh
 Dissecting ShadowCLJS, Reagent and Reframe templates, goal is to see where people are comfortable not information flood
 
 https://github.com/lambrospetrou/create-shadow-cljs-app
-- `npx create-shadow-cljs-app ...; cd ...; (npx run start:browser and npm run watch:browser) `
+- `npx create-shadow-cljs-app ...; cd ...; (npm run start:browser and npm run watch:browser) `
 
 https://github.com/filipesilva/create-cljs-app
 - `npx create-cljs-app ...; cd ...; npm run start`
