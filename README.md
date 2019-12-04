@@ -69,8 +69,10 @@ http://www.luminusweb.net/docs/profiles.html#clojurescript
 - `lein new luminus ... +cljs`
 
 Advanced:
+
 https://github.com/fulcrologic/fulcro-template
 - `git clone ...`
+
 https://github.com/fulcrologic/fulcro-native-template
 - `git clone ...`
 
