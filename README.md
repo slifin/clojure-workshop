@@ -27,7 +27,7 @@ Then add a hello world code by adding this:
 Run the code by right clicking your project and clicking REPL and then run that should open a REPL
 Learn how to run your hello world by reading: https://cursive-ide.com/userguide/repl.html
 
-`clj -m core` on the terminal should execute the program on the terminal
+`clj -m core` on the terminal, in your project dir, should execute the program on the terminal
 
 
 ## Session 2
