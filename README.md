@@ -54,7 +54,7 @@ Catch up for new comers via pairing and learning language sensibilities:
 https://www.youtube.com/playlist?list=PLXsqD83He-e5oUh_DFrHbO3MoNj3tG8Vh
 
 ## Session 4 
-Dissecting ShadowCLJS, Reagent and Reframe templates
+Dissecting ShadowCLJS, Reagent and Reframe templates, goal is to see where people are comfortable not information flood
 
 https://github.com/lambrospetrou/create-shadow-cljs-app
 - `npx create-shadow-cljs-app ...; cd ...; (npx run start:browser and npm run watch:browser) `
