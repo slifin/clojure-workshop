@@ -54,4 +54,26 @@ Catch up for new comers via pairing and learning language sensibilities:
 https://www.youtube.com/playlist?list=PLXsqD83He-e5oUh_DFrHbO3MoNj3tG8Vh
 
 ## Session 4 
-Dissecting Reagent and Reframe templates
+Dissecting ShadowCLJS, Reagent and Reframe templates
+
+https://github.com/lambrospetrou/create-shadow-cljs-app
+- `npx create-shadow-cljs-app ...; cd ...; (npx run start:browser and npm run watch:browser) `
+
+https://github.com/filipesilva/create-cljs-app
+- `npx create-cljs-app ...; cd ...; npm run start`
+
+https://github.com/day8/re-frame-template
+- `lein new re-frame` 
+
+http://www.luminusweb.net/docs/profiles.html#clojurescript
+- `lein new luminus ... +cljs`
+
+Advanced:
+https://github.com/fulcrologic/fulcro-template
+- `git clone ...`
+https://github.com/fulcrologic/fulcro-native-template
+- `git clone ...`
+
+
+
+
