@@ -69,6 +69,7 @@ https://github.com/day8/re-frame-template
 
 <details>
   <summary>More advanced templates</summary>
+  
   http://www.luminusweb.net/docs/profiles.html#clojurescript
   - `lein new luminus ... +cljs`
 
