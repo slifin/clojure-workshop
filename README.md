@@ -68,7 +68,7 @@ https://github.com/day8/re-frame-template
 - `lein new re-frame` 
 
 ### Challenge 
-transact something to the reframe database
+Transact something to the reframe database
 
 <details>
   <summary>More advanced templates</summary>
