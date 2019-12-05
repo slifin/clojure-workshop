@@ -78,6 +78,10 @@ https://github.com/fulcrologic/fulcro-template
 https://github.com/fulcrologic/fulcro-native-template
 - `git clone ...`
 
+Homework: 
+- What is the "elephant in the room" at every stand up?
+- What is a complexity budget?
+- What does it mean to complect something?
 
-
+Answers found in session 3
 
