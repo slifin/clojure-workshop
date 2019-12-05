@@ -67,16 +67,17 @@ https://github.com/filipesilva/create-cljs-app
 https://github.com/day8/re-frame-template
 - `lein new re-frame` 
 
-http://www.luminusweb.net/docs/profiles.html#clojurescript
-- `lein new luminus ... +cljs`
+<details>
+  <summary>More advanced templates</summary>
+  http://www.luminusweb.net/docs/profiles.html#clojurescript
+  - `lein new luminus ... +cljs`
 
-Advanced:
+  https://github.com/fulcrologic/fulcro-template
+  - `git clone ...`
 
-https://github.com/fulcrologic/fulcro-template
-- `git clone ...`
-
-https://github.com/fulcrologic/fulcro-native-template
-- `git clone ...`
+  https://github.com/fulcrologic/fulcro-native-template
+  - `git clone ...`
+</details>
 
 Homework: 
 - What is the "elephant in the room" at every stand up?
