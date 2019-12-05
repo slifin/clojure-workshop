@@ -70,6 +70,13 @@ https://github.com/day8/re-frame-template
 ### Challenge 
 Transact something to the reframe database
 
+### Homework
+- What is the "elephant in the room" at every stand up?
+- What is a complexity budget?
+- What does it mean to complect something?
+
+Answers found in session 3
+
 <details>
   <summary>More advanced templates</summary>
   
@@ -82,11 +89,3 @@ Transact something to the reframe database
   https://github.com/fulcrologic/fulcro-native-template
   - `git clone ...`
 </details>
-
-### Homework
-- What is the "elephant in the room" at every stand up?
-- What is a complexity budget?
-- What does it mean to complect something?
-
-Answers found in session 3
-
