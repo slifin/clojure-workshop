@@ -52,8 +52,8 @@ Other community links:
 
 Catch up for new comers via pairing and learning language sensibilities:
 
-https://youtu.be/GtkouFS-GSQ
-https://youtu.be/-6BsiVyC1kM
+- https://youtu.be/GtkouFS-GSQ
+- https://youtu.be/-6BsiVyC1kM
 
 ## Session 4 
 Dissecting ShadowCLJS, Reagent and Reframe templates, goal is to see where people are comfortable not information flood
