@@ -29,6 +29,7 @@ Learn how to run your hello world by reading: https://cursive-ide.com/userguide/
 
 `clj -m core` on the terminal, in your project dir, should execute the program on the terminal
 
+Enable parinfer (important)
 
 ## Session 2
 
