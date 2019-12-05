@@ -83,7 +83,7 @@ transact something to the reframe database
   - `git clone ...`
 </details>
 
-Homework: 
+### Homework
 - What is the "elephant in the room" at every stand up?
 - What is a complexity budget?
 - What does it mean to complect something?
