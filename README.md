@@ -2,6 +2,8 @@
 
 ## Session 1 
 
+If you need java, you may need `brew tap adoptopenjdk/openjdk` and `brew cask install adoptopenjdk11` before clojure will install (macos)
+
 Install Clojure https://clojure.org/guides/getting_started
 
 Download & install https://www.jetbrains.com/idea/download/ Intellij Community
