@@ -67,7 +67,7 @@ https://github.com/filipesilva/create-cljs-app
 - `npx create-cljs-app ...; cd ...; npm run start`
 
 https://github.com/day8/re-frame-template
-- `lein new re-frame` 
+- `lein new re-frame <project name>` 
 
 ### Challenge 
 Transact something to the reframe database
