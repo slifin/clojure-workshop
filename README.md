@@ -90,4 +90,7 @@ Answers found in session 3
 
   https://github.com/fulcrologic/fulcro-native-template
   - `git clone ...`
+  
+  - notes
+  https://github.com/thheller/shadow-cljs/issues/455#issuecomment-475665984
 </details>
