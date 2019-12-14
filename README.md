@@ -12,6 +12,8 @@ Sign up to clojurian slack via: http://clojurians.net/ for getting quick help
 
 Sign up to 4clojure problems via: http://www.4clojure.com/
 
+Easier to digest documentation: https://kimh.github.io/clojure-by-example
+
 Complete the first three problems on 4clojure
 
 Other community links:
