@@ -65,3 +65,9 @@ Answers found in session 3
   - notes
   https://github.com/thheller/shadow-cljs/issues/455#issuecomment-475665984
 </details>
+
+## Session 5
+Surface level look at fulcro for a SPA, Server and React Native mobile target all in one app
+
+## Session 6
+Clojure spec and data specification
