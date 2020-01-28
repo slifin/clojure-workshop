@@ -71,3 +71,10 @@ Surface level look at fulcro for a SPA, Server and React Native mobile target al
 
 ## Session 6
 Clojure spec and data specification
+
+## Session 7
+adventofcode.com/2019/day/1
+## Session 8
+ClojureScript to QT compilation (calculator app)
+## Session 9
+Instaparse for language parsing
