@@ -77,4 +77,8 @@ adventofcode.com/2019/day/1
 ## Session 8
 ClojureScript to QT compilation (calculator app)
 ## Session 9
-Instaparse for language parsing
+Instaparse for language parsing (became 4clojure problems)
+## Session 10 
+4Clojure problems + Codewars problems
+## Session 11 
+How to unit test, The value of values
