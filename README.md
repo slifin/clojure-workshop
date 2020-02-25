@@ -74,11 +74,15 @@ Clojure spec and data specification
 
 ## Session 7
 adventofcode.com/2019/day/1
+
 ## Session 8
 ClojureScript to QT compilation (calculator app)
+
 ## Session 9
 Instaparse for language parsing (became 4clojure problems)
+
 ## Session 10 
-4Clojure problems + Codewars problems
+Codewars problems, Quil
+
 ## Session 11 
 How to unit test, The value of values
