@@ -85,4 +85,4 @@ Instaparse for language parsing (became 4clojure problems)
 Codewars problems, Quil
 
 ## Session 11 
-How to unit test, The value of values
+How to unit test, The value of values (information systems)
